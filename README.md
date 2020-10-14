@@ -3,7 +3,7 @@
 ## Encryption tool using AWS KMS and AES-256-GCM
 
 #### Installation
-`go get github.com/christianAckman/ktool`
+`go get github.com/christianackman/ktool`
 
 #### Usage
 ```

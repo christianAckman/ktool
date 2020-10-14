@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	cmd "ktool/cmd"
+	"github.com/christianackman/ktool/cmd"
 
 	"github.com/urfave/cli/v2"
 
